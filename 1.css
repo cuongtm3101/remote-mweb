@@ -1,0 +1,132 @@
+*{
+	margin: 0;
+	padding: 0; 
+	font-family: 'Open Sans', sans-serif;
+	box-sizing: border-box;
+}
+
+.row.no-gutters {
+    /* border-bottom: 1px solid silver; */
+}
+
+.phantext p {
+    font-size: 15px;
+}
+
+.phantext h5 {
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+h5 {}
+
+.no-gutters .media {
+    margin-right: 15px;
+    background-color: white;
+    border-bottom: 1px solid grey;
+}
+
+a.btn.btn-primary.btn-lg.nutcap {
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 0;
+}
+
+a.btn.btn-primary.btn-lg.nutcap {}
+
+a.btn.btn-primary.btn-lg.nutcap:hover {
+    background-color: white; 
+    color: black; 
+}
+
+h2.display-4.texttieude {
+    font-size: 35px;
+    font-weight: 350;
+}
+.carousel-item {
+	width: 100%;
+	height: 100vh;
+}
+
+.carousel-item .carousel-item-content {
+	width: 100%;
+	height: 100%;
+	-webkit-background-size: cover !important;
+	-moz-background-size: cover !important;
+	-o-background-size: cover !important;
+	background-size: cover !important;
+	background-position: center center !important;
+	background-repeat: no-repeat !important;
+	overflow: hidden !important;
+	background-attachment: fixed !important;
+}
+
+.carousel-caption.text-xs-left.chuto {
+	margin-bottom: 140px;
+}
+
+.navbar-light.menutop .navbar-nav a.nav-link {
+	color: #e2e1e1;
+	font-weight: 600;
+	margin-right: 15px;
+	padding: 5px;
+}
+.navbar-light.menutop .navbar-nav a.nav-link:hover {
+	background-color: white;
+	color: black;
+}
+
+nav.navbar.navbar-light.bg-faded.menutop {
+	background-color: transparent;
+}
+
+img.logonho {
+	height: 34px;
+} 
+
+
+.nutto {
+	background-color: transparent;
+	color: white;
+	text-decoration: none;
+	border: 1px solid white;
+}
+.nutto:hover {
+	background-color: white;
+	color: black;
+}
+@media (max-width: 576px) {
+	*{}
+
+img.logonho {
+    height: 20px;
+}
+
+ul.nav.navbar-nav.float-sm-right.text-xs-center.text-sm-right {
+    margin-top: 7px;
+}
+
+a.nav-link {
+    border-bottom: 1px dotted #80808040;
+    /* margin-bottom: 0px; */
+    /* display: block; */
+}
+
+.container.mt-3 {
+    margin-top: 0 !important;
+}
+	nav.navbar.navbar-light.bg-faded.menutop{background-color: #323c46; height: 100px;}
+
+nav.navbar.navbar-light.bg-faded.menutop.navbar-fixed-top {
+    height: auto;
+}
+}
+
+.no-gutters [class*="col-sm"] {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.col-sm-4.phananh {
+    margin-right: 10px;
+}
